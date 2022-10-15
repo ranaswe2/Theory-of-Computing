@@ -1,0 +1,14 @@
+
+Enter a String from [01 a-z]: 
+rana.pdf
+->0->0->0->0->0->1->2->3->4rana.pdf is a PDF File? >true
+
+
+Enter a String from [01 a-z]: 
+rana.txt
+->0->0->0->0->0->1->0->0->0rana.txt is a PDF File? >false
+
+
+Enter a String from [01 a-z]: 
+ac.pdf3
+->0->0->0->1->2->3->4->0ac.pdf3 is a PDF File? >false

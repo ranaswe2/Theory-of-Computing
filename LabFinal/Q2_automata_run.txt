@@ -1,0 +1,18 @@
+
+Enter a String from [01]: 
+01010
+->0->1->2->1->2->101010 is Odd Binary? >true
+->0->0->0->0->0->001010 is Number? >true
+
+
+Enter a String from [01]: 
+0101
+->0->1->2->1->20101 is Odd Binary? >false
+->0->0->0->0->00101 is Number? >true
+
+
+
+Enter a String from [01]: 
+12AD
+->0->1->0->0->012AD is Odd Binary? >false
+->0->0->1->1->112AD is Number? >false

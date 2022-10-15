@@ -1,0 +1,17 @@
+Enter String for  Alphabet {0,1} : 
+1100110
+1100110 accepted by :
+a. {w| w begins with a 1 and ends with a 0} => true
+b. {w| w contains at least three 1s} => true
+c. {w| w contains the substring 0101 (i.e., w = x0101y for some x and y)} => false
+d. {w| w has length at least 3 and its third symbol is a 0} => true
+e. {w| w starts with 0 and has odd length, or starts with 1 and has even length} => false
+f. {w| w doesn’t contain the substring 110} => false
+g. {w| the length of w is at most 5} => false
+h. {w| w is any string except 11 and 111} => false
+i. {w| every odd position of w is a 1} => false
+j. {w| w contains at least two 0s and at most one 1} => false
+k. {ε, 0} => false
+l. {w| w contains an even number of 0s, or contains exactly two 1s} => false
+m. The empty set => false
+n. All strings except the empty string => true

@@ -1,0 +1,16 @@
+
+Enter a String from [01]: 
+11111
+->0->1->1->1->1->111111 is Binary? >true
+->0->1->1->1->1->111111 is Decimal? >true
+->0
+->1->1->1->1->111111 is Hexadecimal? >true
+->0->1->1->1->1->111111 is Octal? >true
+
+Enter a String from [01]: 
+17347AF
+->0->1->0->0->0->0->0->017347AF is Binary? >false
+->0->1->1->1->1->1->0->017347AF is Decimal? >false
+->0
+->1->1->1->1->1->1->117347AF is Hexadecimal? >true
+->0->1->1->1->1->1->0->017347AF is Octal? >false

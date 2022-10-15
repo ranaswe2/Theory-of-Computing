@@ -1,0 +1,4 @@
+
+Enter a String from [01 a-z]: 
+aecf
+->0->0->0->0->0aecf is a Java Variable? >true

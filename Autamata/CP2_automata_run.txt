@@ -1,0 +1,10 @@
+Enter String for  Alphabet {a,b} : 
+abbbabba
+abbbabba accepted by :
+a. {w| w has at least three a’s and at least two b’s} => true
+b. {w| w has exactly two a’s and at least two b’s} => false
+c. {w| w has an even number of a’s and one or two b’s} => false
+d. {w| w has an even number of a’s and each a is followed by at least one b} => false
+e. {w| w starts with an a and has at most one b} => false
+f. {w| w has an odd number of a’s and ends with a b} => false
+g. {w| w has even length and an odd number of a’s} => true
